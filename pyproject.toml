@@ -1,0 +1,8 @@
+[project]
+name = "modernization-assessment"
+version = "0.1.0"
+description = "LOE/Risk scoring engine for Snowflake modernization assessments"
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0",
+]
