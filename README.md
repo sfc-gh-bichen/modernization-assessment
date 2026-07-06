@@ -47,7 +47,7 @@ Or Cortex Code routes automatically on phrases like:
 ### Example
 
 **Prompt:**
-> Assess the migration effort for Ariat's BigQuery CDP migration. They have 161 tables (~1 TB), 27 stored procedures (4 high-complexity), 13 views, and a Cloud Function (300 lines, 10 SP calls). Target: Snowflake with dbt + Dynamic Tables. Team has low Snowflake maturity. Audience: architect-level report.
+> Assess the migration effort for a retail company's BigQuery CDP migration. They have 160 tables (~1 TB), 25 stored procedures (4 high-complexity), 13 views, and a Cloud Function (300 lines, 10 SP calls). Target: Snowflake with dbt + Dynamic Tables. Team has low Snowflake maturity. Audience: architect-level report.
 
 **What the skill produces:**
 ```
